@@ -1,0 +1,16 @@
+PODS:
+  - GDataXMLNode2 (2.0.1)
+
+DEPENDENCIES:
+  - GDataXMLNode2
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GDataXMLNode2
+
+SPEC CHECKSUMS:
+  GDataXMLNode2: 90a3f2cd1f041aa5f43062eec884e0943704bf81
+
+PODFILE CHECKSUM: aef8a027a9440eef3445d9512dea2ee9176b6f1b
+
+COCOAPODS: 1.5.2
